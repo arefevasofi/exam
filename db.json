@@ -9,13 +9,22 @@
     "name": "arefeva_sofi"
   },
   "users": [
-    {
-      "id": 1,
-      "name": "exam"
-    }
-     {
-      "id": 2,
-      "name": "exam2"
-    }
+    { "id": 1, "name": "exam"},
+    { "id": 2, "name": "exam2" }
+  ]
+ "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ]
 }
