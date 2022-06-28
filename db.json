@@ -8,10 +8,6 @@
   "profile": {
     "name": "arefeva_sofi"
   },
-  "users": [
-    { "id": 1, "name": "exam"},
-    { "id": 2, "name": "exam2" }
-  ],
  "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
