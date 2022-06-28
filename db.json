@@ -11,7 +11,11 @@
   "users": [
     {
       "id": 1,
-      "title": "exam"
+      "name": "exam"
+    }
+     {
+      "id": 2,
+      "name": "exam2"
     }
   ]
 }
