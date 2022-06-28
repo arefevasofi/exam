@@ -45,6 +45,7 @@
 >>u.commit()
 >>print u.getFullName()
 >>Jason Martinez}
+}
 
   ],
   "profile": {
