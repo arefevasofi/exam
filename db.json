@@ -4,7 +4,12 @@
       "id": 1,
       "title": "hello"
     }
-    {
+  ],
+  "profile": {
+    "name": "arefeva_sofi"
+  }
+  "users" : {
+  {
     import json
     import requests
     class User(object):
@@ -46,9 +51,4 @@
 >>print u.getFullName()
 >>Jason Martinez}
 }
-
-  ],
-  "profile": {
-    "name": "arefeva_sofi"
-  }
 }
