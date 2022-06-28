@@ -8,7 +8,7 @@
   "profile": {
     "name": "arefeva_sofi"
   }
-  "users" : {
+  "users" : [
   {
     import json
     import requests
@@ -51,4 +51,5 @@
 >>print u.getFullName()
 >>Jason Martinez}
 }
+]
 }
